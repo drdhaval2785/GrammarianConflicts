@@ -135,4 +135,12 @@ grep -r 'त्यन्ये' ../Data/allsutrani/*.htm > ../output/त्य�
 grep -r 'नित्य' ../Data/allsutrani/*.htm > ../output/नित्य.html
 grep -r 'द्रष्ट' ../Data/allsutrani/*.htm > ../output/द्रष्ट.html
 grep -r 'सिद्धान्त' ../Data/allsutrani/*.htm > ../output/सिद्धान्त.html
-
+grep -r 'धिक्' ../Data/allsutrani/*.htm > ../output/धिक्.html
+grep -r 'सङ्ग्रह' ../Data/allsutrani/*.htm > ../output/सङ्ग्रह.html
+grep -r 'प्रश्लेष' ../Data/allsutrani/*.htm > ../output/प्रश्लेष.html
+grep -r 'मण्डूकप्लु' ../Data/allsutrani/*.htm > ../output/मण्डूकप्लुति.html
+grep -r 'नभिधान' ../Data/allsutrani/*.htm > ../output/नभिधान.html
+grep -r 'बहवः' ../Data/allsutrani/*.htm > ../output/बहवः.html
+grep -r 'सौत्र' ../Data/allsutrani/*.htm > ../output/सौत्र.html
+grep -r 'आर्ष' ../Data/allsutrani/*.htm > ../output/आर्ष.html
+grep -r 'विनिगम' ../Data/allsutrani/*.htm > ../output/विनिगम.html
