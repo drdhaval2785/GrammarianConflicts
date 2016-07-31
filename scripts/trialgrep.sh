@@ -1,7 +1,5 @@
 grep -r 'सुवच' ../Data/allsutrani/*.htm > ../output/सुवच.html
-grep -r 'सुवचं' ../Data/allsutrani/*.htm > ../output/सुवच.html
 grep -r 'चिन्त्य' ../Data/allsutrani/*.htm > ../output/चिन्त्य.html
-grep -r 'चिन्त्यं' ../Data/allsutrani/*.htm > ../output/चिन्त्य.html
 grep -r 'विरुद्ध' ../Data/allsutrani/*.htm > ../output/विरुद्ध.html
 grep -r 'केचि' ../Data/allsutrani/*.htm > ../output/केचिद्‌.html
 grep -r 'अन्ये' ../Data/allsutrani/*.htm > ../output/अन्ये.html
@@ -114,4 +112,27 @@ grep -r 'सिद्धान्तरत्नाक' ../Data/allsutrani/*.htm
 grep -r 'ब्दरत्न' ../Data/allsutrani/*.htm > ../output/शब्दरत्न.html
 grep -r 'प्रपञ्चित' ../Data/allsutrani/*.htm > ../output/प्रपञ्चित.html
 grep -r 'स्तां ताव' ../Data/allsutrani/*.htm > ../output/आस्तां_तावत्.html
-grep -r 'दुर्वच' ../Data/allsutrani/*.htm >> ../output/दुर्वच.html
+grep -r 'दुर्वच' ../Data/allsutrani/*.htm > ../output/दुर्वच.html
+grep -r 'गौरव' ../Data/allsutrani/*.htm > ../output/गौरव.html
+grep -r 'स्थित' ../Data/allsutrani/*.htm > ../output/स्थित.html
+grep -r 'क्वचि' ../Data/allsutrani/*.htm > ../output/क्वचि.html
+grep -r 'पुस्तक' ../Data/allsutrani/*.htm > ../output/पुस्तक.html
+grep -r 'वक्तव्य' ../Data/allsutrani/*.htm > ../output/वक्तव्य.html
+grep -r 'पेक्ष्य' ../Data/allsutrani/*.htm > ../output/पेक्ष्य.html
+grep -r 'त्यक्तुं' ../Data/allsutrani/*.htm > ../output/त्यक्तुं.html
+grep -r 'शक्य' ../Data/allsutrani/*.htm > ../output/शक्य.html
+grep -r 'संमत' ../Data/allsutrani/*.htm > ../output/संमत.html
+grep -r 'निष्प्रयोजन' ../Data/allsutrani/*.htm > ../output/निष्प्रयोजन.html
+grep -r 'पूर्वाचार्य' ../Data/allsutrani/*.htm > ../output/पूर्वाचार्य.html
+grep -r 'व्याख्यान' ../Data/allsutrani/*.htm > ../output/व्याख्यान.html
+grep -r 'वलम्बन' ../Data/allsutrani/*.htm > ../output/वलम्बन.html
+grep -r 'आचार्य' ../Data/allsutrani/*.htm > ../output/आचार्य.html
+grep -r 'श्रयणीय' ../Data/allsutrani/*.htm > ../output/श्रयणीय.html
+grep -r 'मितरे' ../Data/allsutrani/*.htm > ../output/मितरे.html
+grep -r 'त्यपरे' ../Data/allsutrani/*.htm > ../output/त्यपरे.html
+grep -r 'वसेय' ../Data/allsutrani/*.htm > ../output/वसेय.html
+grep -r 'त्यन्ये' ../Data/allsutrani/*.htm > ../output/त्यन्ये.html
+grep -r 'नित्य' ../Data/allsutrani/*.htm > ../output/नित्य.html
+grep -r 'द्रष्ट' ../Data/allsutrani/*.htm > ../output/द्रष्ट.html
+grep -r 'सिद्धान्त' ../Data/allsutrani/*.htm > ../output/सिद्धान्त.html
+
